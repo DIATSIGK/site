@@ -9,6 +9,7 @@ events:
   - magnavox-odyssey
   - pong
   - atari-adventure
+  - pinball-construction-set
   - printed-code
   - pet-lander
   - rockys-boots
