@@ -11,8 +11,8 @@ slides:
   - dartmouth-basic 
   - alto
   - logo-robot
-  - logo-graphics
   - simula
+  - logo-graphics
   - smalltalk	
   - pygmalion
   - bbc-micro
