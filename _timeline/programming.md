@@ -5,11 +5,11 @@ image_url: /images/smalltalk.jpg
 caption: Οι γλώσσες προγραμματισμού θεωρούνται μια περιοχή για τους ειδικούς και τους κατασκευαστές των συστημάτων, αλλά στην πράξη ο προγραμματιστής είναι ένας ακόμη χρήστης, με περισσότερες γνώσεις, δεξιότητες, και δυνατότητες.
 events:
   - card-puncher
-  - ibm2471
-  - simula
   - joss
   - sketchpad
   - dartmouth-basic
+  - ibm2471
+  - simula
   - logo-robot
   - logo-graphics
   - smalltalk
