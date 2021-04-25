@@ -11,6 +11,7 @@ events:
   - dartmouth-basic
   - logo-robot
   - logo-graphics
+  - simula
   - smalltalk
   - pygmalion
   - basic-language

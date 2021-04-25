@@ -12,8 +12,8 @@ slides:
   - alto
   - logo-robot
   - logo-graphics
-  - smalltalk
-  - simula	
+  - simula
+  - smalltalk	
   - pygmalion
   - bbc-micro
   - kidsim
