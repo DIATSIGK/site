@@ -13,6 +13,7 @@ slides:
   - logo-robot
   - logo-graphics
   - smalltalk
+  - simula	
   - pygmalion
   - bbc-micro
   - kidsim
