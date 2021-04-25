@@ -10,8 +10,8 @@ slides:
   - joss
   - dartmouth-basic 
   - alto
-  - logo-robot
   - simula
+  - logo-robot
   - logo-graphics
   - smalltalk	
   - pygmalion
