@@ -6,10 +6,10 @@ caption: Οι γλώσσες προγραμματισμού θεωρούνται
 events:
   - card-puncher
   - ibm2471
+  - simula
   - joss
   - sketchpad
   - dartmouth-basic
-  - simula
   - logo-robot
   - logo-graphics
   - smalltalk
