@@ -9,9 +9,9 @@ events:
   - joss
   - sketchpad
   - dartmouth-basic
+  - simula
   - logo-robot
   - logo-graphics
-  - simula
   - smalltalk
   - pygmalion
   - basic-language
