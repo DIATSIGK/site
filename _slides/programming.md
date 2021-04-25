@@ -10,7 +10,6 @@ slides:
   - joss
   - dartmouth-basic 
   - alto
-  - simula
   - logo-robot
   - logo-graphics
   - smalltalk	
@@ -26,4 +25,5 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
+  - simula
 ---
