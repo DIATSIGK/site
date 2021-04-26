@@ -1,21 +1,20 @@
 ---
-layout: timeline 
-title: Γλώσσες Προγραμματισμού 
+layout: slides
+title: Γλώσσες προγραμματισμού 
 image_url: /images/smalltalk.jpg
-caption: Οι γλώσσες προγραμματισμού θεωρούνται μια περιοχή για τους ειδικούς και τους κατασκευαστές των συστημάτων, αλλά στην πράξη ο προγραμματιστής είναι ένας ακόμη χρήστης, με περισσότερες γνώσεις, δεξιότητες, και δυνατότητες.
-events:
-  - card-puncher
-  - ibm2471
-  - simula
-  - joss
+caption: Οι γλώσσες προγραμματισμού θεωρούνται μια περιοχή για τους ειδικούς και τους κατασκευαστές των συστημάτων, αλλά στην πράξη ο προγραμματιστής είναι απλά ένας ακόμη χρήστης, με περισσότερες γνώσεις, δεξιότητες, και δυνατότητες.
+slides:
+  - teletype
+  - card
   - sketchpad
-  - dartmouth-basic
+  - joss
+  - dartmouth-basic 
+  - alto
   - logo-robot
   - logo-graphics
   - smalltalk
   - pygmalion
-  - basic-language
-  - microsoft-basic
+  - bbc-micro
   - kidsim
   - hypercard-layout
   - max-language
@@ -23,6 +22,7 @@ events:
   - visual-basic-form-designer
   - squeakos
   - eclipse-ide
+  - vim-ide
   - processing-ide 
   - learntomod
 ---
