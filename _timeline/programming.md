@@ -11,8 +11,8 @@ events:
   - ibm2471
   - simula67
   - logo-robot
+  - smalltalk.
   - logo-graphics
-  - smalltalk
   - pygmalion
   - basic-language
   - microsoft-basic
