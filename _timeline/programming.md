@@ -9,7 +9,7 @@ events:
   - sketchpad
   - dartmouth-basic
   - ibm2471
-  - simula
+  - simula67
   - logo-robot
   - logo-graphics
   - smalltalk
