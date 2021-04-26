@@ -12,5 +12,5 @@ tags:
   - IEEE John von Neumann
 ---
 
-{% include_relative bio-kay.md %}
+{% include_relative bio-johan.md %}
 
