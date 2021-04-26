@@ -10,7 +10,7 @@ slides:
   - joss
   - dartmouth-basic 
   - alto
-  - simula
+  - simula67
   - logo-robot
   - logo-graphics
   - smalltalk
