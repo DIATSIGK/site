@@ -26,5 +26,4 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
-  - simula
 ---
