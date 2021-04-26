@@ -12,6 +12,7 @@ events:
   - simula
   - logo-robot
   - smalltalk
+  - smalltalk1
   - logo-graphics
   - pygmalion
   - basic-language
