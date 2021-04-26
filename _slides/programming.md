@@ -11,7 +11,6 @@ slides:
   - dartmouth-basic 
   - alto
   - logo-robot
-  - simula
   - logo-graphics
   - smalltalk	
   - pygmalion
@@ -26,4 +25,5 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
+  - simula
 ---
